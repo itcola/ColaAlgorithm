@@ -20,6 +20,22 @@ public class Main {
         }
         return pre;
     }
+    
+    private static Node reverse2(Node head){
+        if(head == null){
+            return head;
+        }
+        Node cur = head.next;
+        Node pre = head;
+        pre.next = null;
+        while(cur != null){
+            Node next = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = next;
+        }
+        return pre;
+    }
 
 
     static class Node {
@@ -52,7 +68,7 @@ public class Main {
 
         System.out.println("-----------------------------");
 
-        Node newHead = reverse(node1);
+        Node newHead = reverse2(node1);
         while (newHead != null) {
             System.out.println(newHead.data);
             newHead = newHead.next;

@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15bd8231-4669-4643-942c-a7efec7910c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/ATest/Demo1225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/ATest/Demo126.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/ATest/Demo213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/剑指offer/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/剑指offer/二维数组中的查找/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/剑指offer/数组中重复的数字/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/剑指offer/替换空格/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/数组/合并区间/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/数组/求相加的和/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/Alipay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/PayProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/WechatPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Alipay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/PayProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/WechatPay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/DelegateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/EmployeeA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/EmployeeB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/IEmplyee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/Leader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cola/队列/两个队列实现栈/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cola/链表/反转链表1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cola/链表/反转链表1/Main.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ColaAlgorithm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/数组中重复的数字/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/二维数组中的查找/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/替换空格/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#655#656#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/cola/队列/两个队列实现栈/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#719#720#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#919#920#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(n - 1) &amp; hash;</find>
+      <find>(n - 1) &amp; hash</find>
+      <find>block</find>
+      <find>BlockingQueue</find>
+      <find>ThreadPoolExecutor</find>
+      <find>str</find>
+      <find>solution</find>
+      <find>[</find>
+      <find>]</find>
+      <find>length</find>
+      <find>width</find>
+      <find>leetcode</find>
+      <find>isempty</find>
+      <find>isEmpty</find>
+      <find>nums</find>
+      <find>swap</find>
+      <find>||</find>
+      <find>equals</find>
+      <find>map</find>
+      <find>node.next</find>
+      <find>rightNode</find>
+      <find>add</find>
+      <find>comparator</find>
+      <find>res</find>
+      <find>n</find>
+      <find>reverse</find>
+      <find>Node</find>
+      <find>Entry</find>
+      <find>matrix</find>
+      <find>ListNode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>quickSortStack</replace>
+      <replace>rootParam</replace>
+      <replace>param</replace>
+      <replace>pivotIndex</replace>
+      <replace>leftParam</replace>
+      <replace>rightParam</replace>
+      <replace>pivot</replace>
+      <replace>y</replace>
+      <replace>x</replace>
+      <replace>left</replace>
+      <replace>length</replace>
+      <replace>+</replace>
+      <replace>j</replace>
+      <replace>s</replace>
+      <replace>cola</replace>
+      <replace>{</replace>
+      <replace>}</replace>
+      <replace>m</replace>
+      <replace>n</replace>
+      <replace>arr</replace>
+      <replace>&amp;&amp;</replace>
+      <replace>set</replace>
+      <replace>Node node</replace>
+      <replace>ListNode</replace>
+      <replace>right</replace>
+      <replace>offer</replace>
+      <replace>nums</replace>
+      <replace>i</replace>
+      <replace>array</replace>
+      <replace>Node</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/cola/数组/寻找数组中第K大元素/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/链表/合并两个有序链表/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/链表/合并k个连续链表/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/缺失的第一个整数/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/翻转图像/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/Payment.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/Alipay.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/PayProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/jdk/m.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/jdk/WechatPay.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/jdk/PayProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/jdk/Alipay.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/cglib/Alipay.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/jdk/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/cglib/WechatPay.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/cglib/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/动态代理/cglib/PayProxy.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/数字在排序数组中出现的次数/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/二维数组中查找/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/test/Demo1123.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/test/Coffee.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/test/Water.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/test/Factory.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/寻找缺失的整数/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/两数之和/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/两数之和II/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/和为S的连续正数序列/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/字符串/翻转单词顺序/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/字符串/左旋转字符串/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/扑克牌顺子/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/字典序/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/求相加的和/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/ATest/Demo1225.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/链表/反转链表1/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/ATest/Demo126.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/数组/合并区间/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/ATest/Demo213.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/IEmplyee.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/Boss.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/DelegateTest.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/EmployeeB.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/EmployeeA.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/Leader.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/设计模式/委派模式/mvc/DispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/剑指offer/数组中重复的数字/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/剑指offer/二维数组中的查找/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/剑指offer/替换空格/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/剑指offer/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/cola/队列/两个队列实现栈/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\z-app\repository_pinyougou" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\z-app\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="135" />
+    <option name="width" value="1750" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ColaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColaAlgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cola" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cola" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cola" type="462c0819:PsiDirectoryNode" />
+              <item name="队列" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColaAlgorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColaAlgorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cola" type="462c0819:PsiDirectoryNode" />
+              <item name="队列" type="462c0819:PsiDirectoryNode" />
+              <item name="两个队列实现栈" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583038738676" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Tencent Files/4896762/FileRecv/MobileFile/ghy" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\z-app\code\ColaAlgorithm\src\com\cola\设计模式" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cola.设计模式.委派模式" />
+      <recent name="com.cola.动态代理.cglib" />
+      <recent name="com.cola.动态代理.jdk" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cola.test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DelegateTest">
+    <configuration name="DelegateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cola.设计模式.委派模式.DelegateTest" />
+      <module name="ColaAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cola.设计模式.委派模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo126" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cola.ATest.Demo126" />
+      <module name="ColaAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cola.ATest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo213" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cola.ATest.Demo213" />
+      <module name="ColaAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cola.ATest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cola.数组.合并区间.Main" />
+      <module name="ColaAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cola.数组.合并区间.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cola.链表.反转链表1.Main" />
+      <module name="ColaAlgorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cola.链表.反转链表1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DelegateTest" />
+        <item itemvalue="Application.Demo213" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Demo126" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,SHOW_PROPERTIES,ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15bd8231-4669-4643-942c-a7efec7910c4" name="Default Changelist" comment="" />
+      <created>1562028261458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562028261458</updated>
+      <workItem from="1562028265137" duration="1050000" />
+      <workItem from="1562115675900" duration="1371000" />
+      <workItem from="1562380353102" duration="1797000" />
+      <workItem from="1562642271568" duration="5000" />
+      <workItem from="1562764689047" duration="7175000" />
+      <workItem from="1562804908722" duration="13530000" />
+      <workItem from="1562931742823" duration="2636000" />
+      <workItem from="1562974337859" duration="1826000" />
+      <workItem from="1563244563593" duration="8078000" />
+      <workItem from="1565266691311" duration="1570000" />
+      <workItem from="1565320858928" duration="3757000" />
+      <workItem from="1566440480303" duration="11002000" />
+      <workItem from="1566527643262" duration="8938000" />
+      <workItem from="1566865741290" duration="4266000" />
+      <workItem from="1566895002469" duration="2451000" />
+      <workItem from="1567676740170" duration="6978000" />
+      <workItem from="1567737358240" duration="15287000" />
+      <workItem from="1567826059601" duration="11551000" />
+      <workItem from="1567921616525" duration="18527000" />
+      <workItem from="1568075098135" duration="12068000" />
+      <workItem from="1568111089943" duration="7782000" />
+      <workItem from="1568198725676" duration="4379000" />
+      <workItem from="1568262260221" duration="465000" />
+      <workItem from="1568526612104" duration="7787000" />
+      <workItem from="1568549226684" duration="19000" />
+      <workItem from="1568614890402" duration="11902000" />
+      <workItem from="1568681893782" duration="18113000" />
+      <workItem from="1568860319943" duration="10874000" />
+      <workItem from="1568938734861" duration="18094000" />
+      <workItem from="1569205560920" duration="12708000" />
+      <workItem from="1569283840706" duration="12115000" />
+      <workItem from="1569420764587" duration="3756000" />
+      <workItem from="1569466509148" duration="5491000" />
+      <workItem from="1569583515718" duration="4417000" />
+      <workItem from="1569632251559" duration="27544000" />
+      <workItem from="1569719489618" duration="25203000" />
+      <workItem from="1569836254741" duration="16980000" />
+      <workItem from="1569982673354" duration="12570000" />
+      <workItem from="1570065145455" duration="2923000" />
+      <workItem from="1570592524008" duration="4154000" />
+      <workItem from="1570598218744" duration="6469000" />
+      <workItem from="1570677985479" duration="5629000" />
+      <workItem from="1570696896711" duration="4782000" />
+      <workItem from="1570761153714" duration="15768000" />
+      <workItem from="1570842926729" duration="19579000" />
+      <workItem from="1570932834491" duration="19777000" />
+      <workItem from="1571102711800" duration="25283000" />
+      <workItem from="1571186575054" duration="6867000" />
+      <workItem from="1571202549670" duration="11073000" />
+      <workItem from="1571447130461" duration="26070000" />
+      <workItem from="1571536065999" duration="14554000" />
+      <workItem from="1571615848057" duration="5296000" />
+      <workItem from="1571706425418" duration="6099000" />
+      <workItem from="1572140716438" duration="2349000" />
+      <workItem from="1573096770953" duration="13978000" />
+      <workItem from="1573171874000" duration="7815000" />
+      <workItem from="1573261347699" duration="2630000" />
+      <workItem from="1573437289042" duration="2052000" />
+      <workItem from="1574073439754" duration="3426000" />
+      <workItem from="1574122696745" duration="9919000" />
+      <workItem from="1574208591057" duration="11097000" />
+      <workItem from="1574315364098" duration="1466000" />
+      <workItem from="1574491946984" duration="13815000" />
+      <workItem from="1574567257930" duration="11373000" />
+      <workItem from="1574665049587" duration="11298000" />
+      <workItem from="1575620361385" duration="3874000" />
+      <workItem from="1576218682222" duration="1330000" />
+      <workItem from="1576643875526" duration="406000" />
+      <workItem from="1577164124954" duration="6911000" />
+      <workItem from="1577266266032" duration="3931000" />
+      <workItem from="1577952649460" duration="1975000" />
+      <workItem from="1578035940772" duration="1232000" />
+      <workItem from="1579261974697" duration="682000" />
+      <workItem from="1580013178142" duration="5436000" />
+      <workItem from="1580992115885" duration="2690000" />
+      <workItem from="1581581527879" duration="2994000" />
+      <workItem from="1582200560645" duration="2385000" />
+      <workItem from="1582783801285" duration="2521000" />
+      <workItem from="1582856172807" duration="3065000" />
+      <workItem from="1583027458040" duration="4821000" />
+    </task>
+    <task id="LOCAL-00001" summary="optimal bubbleSort">
+      <created>1567738575876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567738575876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Sptember - Decemeber!">
+      <created>1576219150962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576219150962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 20m 54s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 21m 02s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 22m 44s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 22m 51s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 22m 58s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 23m 16s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(1) - 2019.10.19 at 18h 23m 22s.xml">
+      <configuration name="Main.run (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(2) - 2019.10.19 at 20h 08m 45s.xml">
+      <configuration name="Main.run (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(2) - 2019.10.19 at 20h 08m 54s.xml">
+      <configuration name="Main.run (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_run_(2) - 2019.10.19 at 20h 09m 08s.xml">
+      <configuration name="Main.run (2)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="643856000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.80594903" visible="true" weight="0.25737265" />
+      <window_info id="Structure" order="1" sideWeight="0.194051" side_tool="true" weight="0.25737265" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.10906515" side_tool="true" weight="0.25938338" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.44192636" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.29745042" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3045326" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" auto_hide="true" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.2592068" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.1689008" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.15951742" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="optimal bubbleSort" />
+    <MESSAGE value="Sptember - Decemeber!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sptember - Decemeber!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/递归/Demo.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/回溯/全排列/Main.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/回溯/单词搜索/Main.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/贪心/小孩分饼干/Main.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/二叉树/路径和/Main.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/反转字符串中的元音字母/Main.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/长度最小的子数组/Main.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/查找表/快乐数/Main.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/查找表/四数相加2/Main.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/查找表/回旋镖的数量/Main.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/深度优先遍历/最小路径和/Main.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/广度优先遍历/完全平方数/Main.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/字符串/罗马数字转整数/Main.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/字符串/最大子序和/Main.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/字符串/X的平方数/Main.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/杨辉三角/Main.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/链表/相交链表/Main.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/字符串/FizzBuzz/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/快乐数/Main.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/字符串/最长回文字串/Main.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/深度优先遍历/不同路径/Main.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/字符串/括号生成/Main.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/二分查找/BinarySearch.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/寻找数组中第K大元素/Main.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/链表/合并两个有序链表/Main.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/翻转图像/Main.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/动态代理/jdk/Test.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/数字在排序数组中出现的次数/Main.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/和为S的连续正数序列/Main.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/扑克牌顺子/Main.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/cola/数组/扑克牌顺子/Main.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>z</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/cola/动态代理/cglib/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/动态代理/cglib/PayProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="26" column="35" lean-forward="true" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/二维数组中查找/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="30" column="21" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/数字在排序数组中出现的次数/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/test/Water.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/test/Coffee.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/缺失的第一个整数/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/test/Factory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/寻找缺失的整数/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/两数之和/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="65" column="19" lean-forward="true" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/两数之和II/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="39" column="20" lean-forward="true" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/和为S的连续正数序列/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="49" column="19" selection-start-line="17" selection-start-column="7" selection-end-line="49" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/字符串/翻转单词顺序/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/扑克牌顺子/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/字符串/左旋转字符串/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/test/Demo920.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/test/Demo923.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/test/Demo927.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/字典序/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/广度优先遍历/完全平方数/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/贪心/删除k个元素后最小值/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/二分查找/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/求相加的和/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/链表/删除倒数第n个节点/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="51" column="27" selection-start-line="51" selection-start-column="27" selection-end-line="51" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/链表/反转链表1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="458" column="11" selection-start-line="458" selection-start-column="11" selection-end-line="458" selection-end-column="11" />
+          <folding>
+            <element signature="e#5687#5688#0" expanded="true" />
+            <element signature="e#5750#5751#0" expanded="true" />
+            <element signature="e#20727#20728#0" expanded="true" />
+            <element signature="e#20771#20772#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/ATest/Demo1225.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/数组/合并区间/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/ATest/Demo213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/ATest/Demo126.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Alipay.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Payment.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/Alipay.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/PayProxy.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/PayProxy.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/cglib/WechatPay.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/WechatPay.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/mvc/DispatcherServlet.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/动态代理/jdk/Test.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/Leader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/EmployeeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/EmployeeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/IEmplyee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/设计模式/委派模式/DelegateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/数组中重复的数字/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/二维数组中的查找/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/替换空格/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/剑指offer/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/cola/队列/两个队列实现栈/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#719#720#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#919#920#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ColaAlgorithm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>cglib-3.3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
